@@ -11,10 +11,10 @@
     "ShowInMenu": true
   },
   {
-    "name": "V2rayNG",
-    "urlScheme": "v2rayng://install-config",
+    "name": "Hiddify",
+    "urlScheme": "hiddify://install-sub",
     "image": "https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30",
-    "link": "v2rayng://install-config?url={url}",
+    "link": "hiddify://install-sub/?url={url}",
     "os": ["Android"],
     "downloadLinks": {
       "Android": "https://github.com/2dust/v2rayNG/releases/download/1.9.7/v2rayNG_1.9.7_universal.apk"
