@@ -109,23 +109,6 @@
         }
       ]
     },
-     {
-      "name": "وین87",
-      "engName": "MacOS (old)",
-      "osLogo": "https://wiki.outlinekeys.net/wp-content/uploads/2024/12/icons8-macos-48.png",
-      "apps": [
-        {
-          "name": "Hiddify",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/hiddify/hiddify-app/refs/heads/main/assets/images/logo.svg",
-          "description": "BEST client for ALL devices",
-          "faDescription": "BEST client for all devices.",
-          "configLink": "hiddify://install-sub/?url={url}&core=xray",
-          "downloadLink": "https://app.hiddify.com/mac",
-          "videoLink": "https://wiki.outlinekeys.net/wp-content/uploads/2024/12/screen-recorder-thu-dec-26-2024-03-35-03.webm"
-        },
-      ]
-    },
     {
       "name": "لینوکس",
       "engName": "Linux",
