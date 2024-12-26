@@ -48,7 +48,7 @@
           "logo": "https://raw.githubusercontent.com/hiddify/hiddify-app/refs/heads/main/assets/images/logo.svg",
           "description": "BEST client for Android devices.",
           "faDescription": "BEST client for Android devices.",
-          "configLink": "hiddify://install-sub/?url={url}",
+          "configLink": "hiddify://install-sub/?url={url}&core=xray",
           "downloadLink": "https://app.hiddify.com/play",
           "videoLink": "https://example.com/v2rayng-video"
         },
