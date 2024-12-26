@@ -45,11 +45,11 @@
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://hiddify.com/assets/hiddify-app-logo.svg",
+          "logo": "https://avatars.githubusercontent.com/u/126981719?s=48&v=4",
           "description": "BEST client for Android devices.",
           "faDescription": "BEST client for Android devices.",
           "configLink": "hiddify://install-sub/?url={url}",
-          "downloadLink": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
+          "downloadLink": "https://app.hiddify.com/play",
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
