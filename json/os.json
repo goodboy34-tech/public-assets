@@ -45,7 +45,7 @@
         {
           "name": "Hiddify",
           "price": "0",
-          "logo": "https://avatars.githubusercontent.com/u/126981719?s=48&v=4",
+          "logo": "https://raw.githubusercontent.com/hiddify/hiddify-app/refs/heads/main/assets/images/logo.svg",
           "description": "BEST client for Android devices.",
           "faDescription": "BEST client for Android devices.",
           "configLink": "hiddify://install-sub/?url={url}",
